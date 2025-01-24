@@ -1,12 +1,11 @@
 {
-    "display_name": "Asterisk Processor",
+    "display_name": "Wintry",
     "loading_order": 10,
     "requires": [],
     "optional": [],
     "js": "index.js",
-    "css": "style.css",
-    "author": "Your Name",
-    "version": "1.0.0",
-    "homePage": "https://github.com/your-repo",
-    "auto_update": true
+    "css": "",
+    "author": "WintryIce0",
+    "version": "1.1.0",
+    "homePage": "your-github-repo-url"
 }
