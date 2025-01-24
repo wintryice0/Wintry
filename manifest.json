@@ -1,7 +1,7 @@
 
 {
     "display_name": "Wintry",
-    "loading_order": 12,
+    "loading_order": 1,
     "requires": [],
     "optional": [],
     "js": "index.js", 
