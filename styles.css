@@ -1,1 +1,13 @@
+.wintry-settings .fa-snowflake {
+    color: #a0d2eb;
+}
 
+.wintry-block {
+    padding: 8px;
+    gap: 8px;
+    align-items: center;
+}
+
+#wintry_enable {
+    accent-color: #6f87b6;
+}
