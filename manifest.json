@@ -4,7 +4,7 @@
     "requires": [],
     "optional": [],
     "js": "index.js",
-    "css": "style.css",  <-- ADD THIS LINE
+    "css": "style.css",
     "css": "",
     "author": "WintryIce0",
     "version": "1.1.0",
