@@ -2,7 +2,7 @@ import { extension_settings, getContext, loadExtensionSettings } from "../../../
 import { saveSettingsDebounced } from "../../../../script.js";
 
 const extensionName = "wintryice0-wintry";
-const extensionFolderPath = `scripts/extensions/third-party/${extensionName}`;
+const extensionFolderPath = `scripts/extensions/${extensionName}`;
 let isEnabled = false; // Keep track of whether asterisk removal is enabled
 
 // Function to remove asterisks from a string
