@@ -1,12 +1,11 @@
 {
     "display_name": "Wintry",
-    "loading_order": 10,
+    "loading_order": 12,
     "requires": [],
     "optional": [],
     "js": "index.js",
     "css": "style.css",
-    "css": "",
-    "author": "WintryIce0",
-    "version": "1.1.0",
+    "author": "wintryice0",
+    "version": "0.1.0",
     "homePage": "https://github.com/wintryice0/Wintry"
 }
